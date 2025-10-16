@@ -3,9 +3,6 @@
 ![Modinity Engineering Team](modinity_engineering.png)
 
 Welcome to the official GitHub Organization of **Modinity Group**.  
-This is where our **Engineering Team** builds, experiments, and innovates to support Modinity's journey as a leading Indonesian fashion brand. Modinity Group
-
-Welcome to the official GitHub Organization of **Modinity Group**.  
 This is where our **Engineering Team** builds, experiments, and innovates to support Modinity’s journey as a leading Indonesian fashion brand.
 
 ---
