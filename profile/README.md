@@ -35,6 +35,17 @@ At **Modinity Engineering**, we focus on:
 
 ---
 
+## 📐 Engineering Best Practices
+
+We believe great engineering starts with shared standards. Our team follows a set of documented conventions to keep our codebase consistent, our repositories discoverable, and our collaboration smooth.
+
+| Document | Description |
+|---|---|
+| [📛 Naming Convention](../docs/NAMING_CONVENTION.md) | Repository naming (`department-project-service`), branch naming, and environment suffix standards |
+| [🛠️ Development Guide](../docs/DEVELOPMENT_GUIDE.md) | Git workflow, commit message format (Conventional Commits), PR conventions, code review standards, and definition of done |
+
+---
+
 ## 📫 Connect With Us
 - 🌐 Website: [modinity.com](https://modinity.com/pages/about)  
 - 📧 Email: tech@modinity.com  
